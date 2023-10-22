@@ -6,9 +6,8 @@ import (
 	"net/http"
 	"strconv"
 
-	"github.com/bill/Bookstore-Management-System/pkg/models"
-	"github.com/bill/Bookstore-Management-System/pkg/utils"
 	"github.com/billsusanto/Bookstore-Management-System/pkg/models"
+	"github.com/billsusanto/Bookstore-Management-System/pkg/utils"
 	"github.com/gorilla/mux"
 )
 

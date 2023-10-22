@@ -1,7 +1,6 @@
 package models
 
 import (
-	"github.com/bill/Bookstore-Management-System/pkg/config"
 	"github.com/billsusanto/Bookstore-Management-System/pkg/config"
 	"github.com/jinzhu/gorm"
 )
