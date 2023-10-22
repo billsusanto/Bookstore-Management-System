@@ -5,7 +5,6 @@ import (
 	"fmt"
 	"net/http"
 	"strconv"
-
 	"github.com/billsusanto/Bookstore-Management-System/pkg/models"
 	"github.com/billsusanto/Bookstore-Management-System/pkg/utils"
 	"github.com/gorilla/mux"
